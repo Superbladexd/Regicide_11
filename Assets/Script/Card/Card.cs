@@ -31,7 +31,7 @@ public class NormalCard : Card
     }
 }
 
-public class BossCard : Card
+public class BossCard : Card   //Boss
 {
     public int health { get; set; }
     public int currentvalue { get; set; }
