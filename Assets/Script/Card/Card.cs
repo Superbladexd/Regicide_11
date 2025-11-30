@@ -18,7 +18,7 @@ public class Card
     }
 }
 
-public class NormalCard : Card
+public class NormalCard : Card //∆’Õ®ø®
 {
     public NormalCard(string suit, string point,int att) : base(suit, point, att)
     {
