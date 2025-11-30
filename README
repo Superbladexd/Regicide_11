@@ -1,0 +1,39 @@
+# Unity Game Project - 11
+
+## 项目简介
+该项目用于个人对于Unity使用的练习，并作为课程期末考查的项目使用。
+项目包括基本游戏玩法实现、UI 交互及胜负判定逻辑，同时体现 Git 分支管理、协作开发及文档规范。
+
+## 游戏简介
+这是一款扑克牌桌游叫做"弑君者"，详细规则可自行搜索
+
+## 使用技术
+2022.3.62f1c1 LTS
+C# 脚本语言
+Unity 自带标准资源包
+Unity Asset Store 免费资源
+Git 进行版本控制和分支管理
+
+## 项目功能
+- 玩家操作：抽牌，弃牌，出牌
+- UI 系统：游戏界面，卡牌UI
+- 胜利/失败机制
+- 敌人机制：敌人攻击
+
+## 项目结构
+/Assets # 游戏资源和脚本
+/Scripts # C# 脚本
+/Scenes # 游戏场景
+/Prefabs # 预制体
+/Textures # 材质/贴图
+/Packages # Unity 包管理文件
+/ProjectSettings # 项目设置
+.gitignore # 忽略不必要的文件（Library、Temp 等）
+README.md # 项目说明
+LICENSE # 许可证
+
+## 如何运行
+1. clone 项目到本地
+2. 打开 Unity Hub 选择 Unity 版本
+3. 打开项目运行主场景
+
